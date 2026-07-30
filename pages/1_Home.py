@@ -63,7 +63,7 @@ st.markdown(
     </style>
 
     <div class="hero-container">
-        <div class="hero-title">🌌 ExoVision AI</div>
+        <div class="hero-title">🌌 HabitaX</div>
         <div class="hero-subtitle">
             Automated deep space exoplanet classification powered by Machine Learning. 
             Analyzing habitability signatures, transit light curves, and planetary metrics across NASA Kepler Objects of Interest (KOI).
