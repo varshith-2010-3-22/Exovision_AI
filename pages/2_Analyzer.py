@@ -7,7 +7,7 @@ import plotly.graph_objects as go
 import streamlit as st
 
 st.set_page_config(
-    page_title="Candidate Analyzer - ExoVision AI",
+    page_title="Candidate Analyzer - HabitaX",
     page_icon="🔬",
     layout="wide"
 )
