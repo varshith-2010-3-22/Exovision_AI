@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="Mission Control - ExoVision AI",
+    page_title="Mission Control - HabitaX",
     page_icon="👥",
     layout="wide"
 )
@@ -10,7 +10,7 @@ st.set_page_config(
 # Page Header
 # -------------------------------------------------------------------
 st.title("👥 Mission Control & Developer Profiles")
-st.write("Meet the team behind ExoVision AI, building machine learning models for exoplanet discovery.")
+st.write("Meet the team behind HabitaX, building machine learning models for exoplanet discovery.")
 
 st.markdown("---")
 
@@ -47,6 +47,7 @@ with col2:
         """
         <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 25px;">
             <h3 style="color: #60EFFF; margin-bottom: 5px;">🌌 Mission Vision & Objectives</h3>
+            <h4 style="color: #FFF; margin-top: 0;">Manveer_plaha</h4>
             <h4 style="color: #FFF; margin-top: 0;">Automating Deep Space Discovery</h4>
             <p style="color: #8B949E; font-size: 0.95rem;">NASA Open Data Challenge Initiative</p>
             <hr style="border-color: #30363d;">
