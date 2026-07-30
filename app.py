@@ -29,7 +29,7 @@ def load_artifacts():
 model, feature_columns = load_artifacts()
 
 st.set_page_config(
-    page_title="ExoVision AI",
+    page_title="HabitaX",
     page_icon="🌍",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -64,12 +64,12 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.sidebar.title("🌍 ExoVision AI")
+st.sidebar.title("🌍 HabitaX")
 st.sidebar.info("Navigate through the application sections above.")
 
 # Main app entry point redirects to Home or displays Landing Summary
-st.title("ExoVision AI Platform")
-st.write("Welcome to the ExoVision AI hub. Select a page from the sidebar navigation to get started.")
+st.title("HabitaX Platform")
+st.write("Welcome to the HabitaX hub. Select a page from the sidebar navigation to get started.")
 
 st.markdown("""
 * **1_Home**: Landing page & Overview
