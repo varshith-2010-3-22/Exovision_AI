@@ -3,7 +3,7 @@ import plotly.express as px
 import pandas as pd
 
 st.set_page_config(
-    page_title="Methodology & Data - ExoVision AI",
+    page_title="Methodology & Data - HabitaX",
     page_icon="📘",
     layout="wide"
 )
@@ -14,7 +14,7 @@ st.set_page_config(
 st.title("📘 Dataset & Machine Learning Methodology")
 st.write(
     "A comprehensive breakdown of the NASA Kepler Objects of Interest (KOI) catalog, "
-    "our feature engineering pipeline, and the Machine Learning architecture power-housing **ExoVision AI**."
+    "our feature engineering pipeline, and the Machine Learning architecture power-housing **HabitaX**."
 )
 
 st.markdown("---")
