@@ -7,7 +7,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 import streamlit as st
 
-st.set_page_config(page_title="Mission Dashboard - ExoVision AI", page_icon="📊", layout="wide")
+st.set_page_config(page_title="Mission Dashboard - HabitaX", page_icon="📊", layout="wide")
 
 # -------------------------------------------------------------------
 # Helper: Earth Similarity Index (ESI) Calculation
